@@ -2,5 +2,5 @@
     <remote name="github" fetch="ssh://git@github.com:/melosh101" />
     <default revision="main" remote="github" sync-j="4" />
     <project name="viggo2Front.git" remote="github" path="front" />
-    <project name="viggo2Backend" remote="github" path="backend />
+    <project name="viggo2Backend" remote="github" path="backend" />
 </manifest>
